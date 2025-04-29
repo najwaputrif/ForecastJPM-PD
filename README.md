@@ -2,7 +2,7 @@
 
 **ForecastJPM-PD** is a time series forecasting project built using R, designed to model and predict the monthly closing prices of JPMorgan Chase & Co. preferred stock (JPM-PD). This repository represents a personal extension of a previous academic group project and explores a new forecasting period from **January 2021 to December 2025** using updated data and improved seasonal ARIMA modeling.
 
----
+
 
 ## 🔍 Project Background
 
@@ -17,7 +17,7 @@ This repository further develops the original work by incorporating:
 
 The data was obtained via [Yahoo Finance](https://finance.yahoo.com/quote/JPM-PD/history) for the ticker symbol **JPM-PD**.
 
----
+
 
 ## 📦 Features
 
@@ -36,7 +36,7 @@ The data was obtained via [Yahoo Finance](https://finance.yahoo.com/quote/JPM-PD
 - 📝 Export of results to `.xlsx` via `openxlsx`
 - 🧾 Custom model summary printing with statistical significance
 
----
+
 
 ## ⚙️ Setup & Installation
 
