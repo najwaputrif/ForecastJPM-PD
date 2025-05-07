@@ -1,4 +1,4 @@
-# 📊 ForecastJPM-PD
+# 📊 Forecast JPM-PD
 
 📄 **Online Report**:  
 View the full forecasting report on RPubs:  
@@ -6,7 +6,7 @@ View the full forecasting report on RPubs:
 
 
 
-**ForecastJPM-PD** is a time series forecasting project built using R, designed to model and predict the monthly closing prices of JPMorgan Chase & Co. preferred stock (JPM-PD).  
+**Forecast JPM-PD** is a time series forecasting project built using R, designed to model and predict the monthly closing prices of JPMorgan Chase & Co. preferred stock (JPM-PD).  
 This repository represents a personal extension of a previous academic group project and utilizes historical data from **January 2021 to December 2024** to forecast future prices for the period of **January to December 2025** using improved seasonal ARIMA modeling.
 
 
